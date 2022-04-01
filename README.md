@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, c++,
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on C#, ASP.NET MVC, HTML, CSS, Javascript.
-- 📫 How to reach me abdurrahmannoori@gmail.com
+- 📫 How to reach me abdurrahmannoori10@gmail.com
 
 <!---
 abdurrahmanoori/abdurrahmanoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
